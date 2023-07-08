@@ -18,3 +18,4 @@ client_secret=""
 
 ## known issues
 * song log does not have correct time zones starting when the logger is used
+* file paths and more are set in `main.py`
