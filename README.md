@@ -1,5 +1,6 @@
 # song-typing-study
 gather and post-process data to determine the role of song genre on typing speed
+a CSV is exported for use in statistics software
 
 ## data sources
 * monkeytype.com table html page download
