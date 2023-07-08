@@ -7,8 +7,8 @@ a CSV is exported for use in statistics software
 * spotify logs, as sourced from spotify data export and custom logger
 
 ## requirements
-spotipy==2.23.0
-pandas
+* spotipy==2.23.0
+* pandas
 
 ## credentials
 write `cred.py` to the project directory according to the following template
