@@ -1,6 +1,7 @@
 .DS_Store
 venv/*
 __pycache__/*
+.cache
+song-log.json
 *.swp
 cred.py
-song-log.json
