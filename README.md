@@ -5,6 +5,10 @@ gather and post-process data to determine the role of song genre on typing speed
 * monkeytype.com table html page download
 * spotify logs, as sourced from spotify data export and custom logger
 
+## requirements
+spotipy==2.23.0
+pandas
+
 ## credentials
 write `cred.py` to the project directory according to the following template
 ```py
